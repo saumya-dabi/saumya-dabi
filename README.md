@@ -21,11 +21,11 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 #### Latest writing
 
+- [Treat your prompt library as a codebase, not a folder of text files](https://saumya-dabi-portfolio.vercel.app/blog/treat-prompts-as-a-codebase) <sub>14 Oct 2026</sub>
 - [Give your agent domain actions, not database CRUD](https://saumya-dabi-portfolio.vercel.app/blog/agent-domain-actions-not-crud) <sub>13 Oct 2026</sub>
 - [An exception queue needs an owner, not just a status](https://saumya-dabi-portfolio.vercel.app/blog/exceptions-need-a-queue-owner) <sub>12 Oct 2026</sub>
 - [Don't let context switching kill your agent's reasoning](https://saumya-dabi-portfolio.vercel.app/blog/context-switching-in-agent-development) <sub>11 Oct 2026</sub>
 - [The interface for agentic ambiguity](https://saumya-dabi-portfolio.vercel.app/blog/the-interface-for-agentic-ambiguity) <sub>10 Oct 2026</sub>
-- [AI product hypotheses as experiments, not roadmap features](https://saumya-dabi-portfolio.vercel.app/blog/ai-product-hypotheses-as-experiments) <sub>09 Oct 2026</sub>
 
 [All posts →](https://saumya-dabi-portfolio.vercel.app/blog)
 
