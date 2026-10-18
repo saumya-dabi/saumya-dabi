@@ -21,11 +21,11 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 #### Latest writing
 
+- [Name the assumption that would kill your product bet](https://saumya-dabi-portfolio.vercel.app/blog/name-the-assumption-that-would-kill-your-bet) <sub>18 Oct 2026</sub>
 - [A product portfolio needs a decision trail, not more screenshots](https://saumya-dabi-portfolio.vercel.app/blog/a-portfolio-needs-a-decision-trail) <sub>17 Oct 2026</sub>
 - [Write the error budget before you add an AI feature](https://saumya-dabi-portfolio.vercel.app/blog/write-the-error-budget-first) <sub>16 Oct 2026</sub>
 - [Account Aggregator drop-offs happen before the OTP](https://saumya-dabi-portfolio.vercel.app/blog/account-aggregator-drop-offs-before-otp) <sub>15 Oct 2026</sub>
 - [Treat your prompt library as a codebase, not a folder of text files](https://saumya-dabi-portfolio.vercel.app/blog/treat-prompts-as-a-codebase) <sub>14 Oct 2026</sub>
-- [Give your agent domain actions, not database CRUD](https://saumya-dabi-portfolio.vercel.app/blog/agent-domain-actions-not-crud) <sub>13 Oct 2026</sub>
 
 [All posts →](https://saumya-dabi-portfolio.vercel.app/blog)
 
