@@ -21,11 +21,11 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 #### Latest writing
 
+- [A product interview answer needs a bet](https://saumya-dabi-portfolio.vercel.app/blog/a-product-interview-needs-a-bet) <sub>24 Oct 2026</sub>
 - [An AI workflow needs a state contract](https://saumya-dabi-portfolio.vercel.app/blog/a-workflow-needs-a-state-contract) <sub>23 Oct 2026</sub>
 - [A product case study needs a counterfactual](https://saumya-dabi-portfolio.vercel.app/blog/a-case-study-needs-a-counterfactual) <sub>22 Oct 2026</sub>
 - [Make AI tools show their work before asking for trust](https://saumya-dabi-portfolio.vercel.app/blog/make-ai-tools-show-their-work) <sub>21 Oct 2026</sub>
 - [Agent retries need an action ledger](https://saumya-dabi-portfolio.vercel.app/blog/retries-need-an-action-ledger) <sub>20 Oct 2026</sub>
-- [An eval score needs a failure budget](https://saumya-dabi-portfolio.vercel.app/blog/an-eval-score-needs-a-failure-budget) <sub>19 Oct 2026</sub>
 
 [All posts →](https://saumya-dabi-portfolio.vercel.app/blog)
 
