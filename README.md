@@ -21,19 +21,19 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 #### Latest writing
 
+- [A model lineup is a pricing portfolio](https://saumya-dabi-portfolio.vercel.app/blog/a-model-lineup-is-a-pricing-portfolio) <sub>27 Oct 2026</sub>
 - [A human override needs an expiry](https://saumya-dabi-portfolio.vercel.app/blog/a-human-override-needs-a-timeout) <sub>26 Oct 2026</sub>
 - [An AI agent needs a permission gradient](https://saumya-dabi-portfolio.vercel.app/blog/an-agent-needs-a-permission-gradient) <sub>25 Oct 2026</sub>
 - [A product interview answer needs a bet](https://saumya-dabi-portfolio.vercel.app/blog/a-product-interview-needs-a-bet) <sub>24 Oct 2026</sub>
 - [An AI workflow needs a state contract](https://saumya-dabi-portfolio.vercel.app/blog/a-workflow-needs-a-state-contract) <sub>23 Oct 2026</sub>
-- [A product case study needs a counterfactual](https://saumya-dabi-portfolio.vercel.app/blog/a-case-study-needs-a-counterfactual) <sub>22 Oct 2026</sub>
 
 [All posts →](https://saumya-dabi-portfolio.vercel.app/blog)
 
 #### Recently active
 
+- [hermes-tui-minimal](https://github.com/saumya-dabi/hermes-tui-minimal) <sub>updated 2026-10-26</sub>
 - [synapse-case-study](https://github.com/saumya-dabi/synapse-case-study) <sub>updated 2026-10-01</sub>
 - [jd-fit-engine](https://github.com/saumya-dabi/jd-fit-engine) <sub>updated 2026-10-01</sub>
 - [creditlens](https://github.com/saumya-dabi/creditlens) <sub>updated 2026-10-01</sub>
-- [vault-rag](https://github.com/saumya-dabi/vault-rag) <sub>updated 2026-07-05</sub>
 
 <sub>This README rebuilds itself from my blog feed and the GitHub API; it changes only when they do.</sub>
