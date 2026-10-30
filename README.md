@@ -31,9 +31,9 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 #### Recently active
 
+- [joblens](https://github.com/saumya-dabi/joblens) <sub>updated 2026-10-30</sub>
 - [jd-fit-engine](https://github.com/saumya-dabi/jd-fit-engine) <sub>updated 2026-10-27</sub>
 - [creditlens](https://github.com/saumya-dabi/creditlens) <sub>updated 2026-10-27</sub>
 - [hermes-tui-minimal](https://github.com/saumya-dabi/hermes-tui-minimal) <sub>updated 2026-10-26</sub>
-- [synapse-case-study](https://github.com/saumya-dabi/synapse-case-study) <sub>updated 2026-10-01</sub>
 
 <sub>This README rebuilds itself from my blog feed and the GitHub API; it changes only when they do.</sub>
