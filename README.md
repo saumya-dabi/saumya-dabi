@@ -13,8 +13,8 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 | Project | What it is |
 |---|---|
+| [**JobLens**](https://getjoblens.vercel.app) | Live job platform: every job board in one feed, ranked against your resume. JD Fit is built in: each requirement cites a resume line or counts as a gap |
 | [**creditlens**](https://github.com/saumya-dabi/creditlens) | CreditLens: cited, self-checking RAG copilot for SME credit analysts, with evals |
-| [**jd-fit-engine**](https://github.com/saumya-dabi/jd-fit-engine) | Evidence-based resume to JD fit scoring with a fabrication guard and evals |
 | [**pm-agents**](https://github.com/saumya-dabi/pm-agents) | Multi-agent PM copilot: briefings, metrics, grounded vault Q&A, PRD/ticket drafting — Claude + MCP with guardrails in code |
 | [**vault-rag**](https://github.com/saumya-dabi/vault-rag) | Local-first RAG over an Obsidian vault: ChromaDB index, grounded retrieval with citations, graph visualisers |
 | [**synapse-case-study**](https://github.com/saumya-dabi/synapse-case-study) | Case study: an internal AI knowledge platform with department-scoped RAG, shipped 0-to-1 as an auto-updating desktop app |
@@ -31,9 +31,9 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 #### Recently active
 
-- [joblens](https://github.com/saumya-dabi/joblens) <sub>updated 2026-10-30</sub>
-- [jd-fit-engine](https://github.com/saumya-dabi/jd-fit-engine) <sub>updated 2026-10-30</sub>
 - [hermes-tui-minimal](https://github.com/saumya-dabi/hermes-tui-minimal) <sub>updated 2026-10-30</sub>
 - [creditlens](https://github.com/saumya-dabi/creditlens) <sub>updated 2026-10-27</sub>
+- [synapse-case-study](https://github.com/saumya-dabi/synapse-case-study) <sub>updated 2026-10-01</sub>
+- [vault-rag](https://github.com/saumya-dabi/vault-rag) <sub>updated 2026-07-05</sub>
 
 <sub>This README rebuilds itself from my blog feed and the GitHub API; it changes only when they do.</sub>

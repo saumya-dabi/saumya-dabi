@@ -18,13 +18,16 @@ ROOT = Path(__file__).resolve().parent
 SITE = "https://saumya-dabi-portfolio.vercel.app"
 USER = "saumya-dabi"
 
-FEATURED = [  # (repo, one-line pitch) — hand-curated; descriptions come from the repo when blank
+FEATURED = [  # (repo, one-line pitch[, link]) — hand-curated; descriptions come from the repo when blank.
+    # An entry with a link is a live product whose repo is private: listed with that link, never the repo.
+    ("JobLens", "Live job platform: every job board in one feed, ranked against your resume. JD Fit is built in: "
+                "each requirement cites a resume line or counts as a gap", "https://getjoblens.vercel.app"),
     ("creditlens", ""),
-    ("jd-fit-engine", ""),
     ("pm-agents", ""),
     ("vault-rag", ""),
     ("synapse-case-study", ""),
 ]
+RETIRED = {"jd-fit-engine"}  # merged into JobLens; never featured or listed as recently active
 
 
 def fetch(url: str, token: str | None = None):
@@ -49,7 +52,8 @@ def latest_posts(n: int = 5) -> list[tuple[str, str, str]]:
 
 def repos(token: str | None) -> dict[str, dict]:
     data = json.loads(fetch(f"https://api.github.com/users/{USER}/repos?per_page=100&type=owner", token))
-    return {r["name"]: r for r in data if not r["fork"] and not r["private"] and r["name"] != USER}
+    return {r["name"]: r for r in data
+            if not r["fork"] and not r["private"] and r["name"] != USER and r["name"] not in RETIRED}
 
 
 def token() -> str | None:
@@ -67,8 +71,10 @@ def main() -> None:
     tok = token()
     rp = repos(tok)
     featured = []
-    for name, pitch in FEATURED:
-        if name in rp:
+    for name, pitch, *link in FEATURED:
+        if link:
+            featured.append(f"| [**{name}**]({link[0]}) | {pitch} |")
+        elif name in rp:
             r = rp[name]
             featured.append(f"| [**{name}**]({r['html_url']}) | {pitch or r['description'] or ''} |")
     recent = sorted(rp.values(), key=lambda r: r["pushed_at"], reverse=True)[:4]
