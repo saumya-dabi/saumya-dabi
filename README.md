@@ -13,7 +13,7 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 | Project | What it is |
 |---|---|
-| [**JobLens**](https://getjoblens.vercel.app) | Live job platform: every job board in one feed, ranked against your resume. JD Fit is built in: each requirement cites a resume line or counts as a gap |
+| [**JobLens**](https://joblens.club) | Live job platform: every job board in one feed, ranked against your resume. JD Fit is built in: each requirement cites a resume line or counts as a gap |
 | [**creditlens**](https://github.com/saumya-dabi/creditlens) | CreditLens: cited, self-checking RAG copilot for SME credit analysts, with evals |
 | [**pm-agents**](https://github.com/saumya-dabi/pm-agents) | Multi-agent PM copilot: briefings, metrics, grounded vault Q&A, PRD/ticket drafting — Claude + MCP with guardrails in code |
 | [**vault-rag**](https://github.com/saumya-dabi/vault-rag) | Local-first RAG over an Obsidian vault: ChromaDB index, grounded retrieval with citations, graph visualisers |

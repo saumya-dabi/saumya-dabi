@@ -21,7 +21,7 @@ USER = "saumya-dabi"
 FEATURED = [  # (repo, one-line pitch[, link]) — hand-curated; descriptions come from the repo when blank.
     # An entry with a link is a live product whose repo is private: listed with that link, never the repo.
     ("JobLens", "Live job platform: every job board in one feed, ranked against your resume. JD Fit is built in: "
-                "each requirement cites a resume line or counts as a gap", "https://getjoblens.vercel.app"),
+                "each requirement cites a resume line or counts as a gap", "https://joblens.club"),
     ("creditlens", ""),
     ("pm-agents", ""),
     ("vault-rag", ""),
