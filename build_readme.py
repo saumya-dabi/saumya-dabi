@@ -15,7 +15,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-SITE = "https://saumya-dabi-portfolio.vercel.app"
+SITE = "https://saumya.dabi.live"
 USER = "saumya-dabi"
 
 FEATURED = [  # (repo, one-line pitch[, link]) — hand-curated; descriptions come from the repo when blank.

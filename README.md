@@ -7,7 +7,7 @@ discovery, the spec and the evals, then the build with AI coding agents.
 - **Before:** IncrediPets · CreditQ · Overlayy · ShowTime Consulting · B.Tech, IIT Kanpur
 - **Focus:** AI product · technical product · 0→1 · data and evals
 
-[Portfolio](https://saumya-dabi-portfolio.vercel.app) · [Writing](https://saumya-dabi-portfolio.vercel.app/blog) · [Email](mailto:saumyadabi7@gmail.com)
+[Portfolio](https://saumya.dabi.live) · [Writing](https://saumya.dabi.live/blog) · [Email](mailto:saumyadabi7@gmail.com)
 
 #### Selected work
 
@@ -21,13 +21,13 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 #### Latest writing
 
-- [Deactivation is a product decision, not a billing task](https://saumya-dabi-portfolio.vercel.app/blog/deactivation-is-a-product-decision) <sub>03 Nov 2026</sub>
-- [Hyperlocal growth stalls on supply coverage before user demand](https://saumya-dabi-portfolio.vercel.app/blog/hyperlocal-growth-stalls-on-supply-coverage) <sub>31 Oct 2026</sub>
-- [A model lineup is a pricing portfolio](https://saumya-dabi-portfolio.vercel.app/blog/a-model-lineup-is-a-pricing-portfolio) <sub>27 Oct 2026</sub>
-- [Human overrides should expire](https://saumya-dabi-portfolio.vercel.app/blog/a-human-override-needs-a-timeout) <sub>24 Oct 2026</sub>
-- [Give agents permissions in steps, not all at once](https://saumya-dabi-portfolio.vercel.app/blog/an-agent-needs-a-permission-gradient) <sub>20 Oct 2026</sub>
+- [Deactivation is a product decision, not a billing task](https://saumya.dabi.live/blog/deactivation-is-a-product-decision) <sub>03 Nov 2026</sub>
+- [Hyperlocal growth stalls on supply coverage before user demand](https://saumya.dabi.live/blog/hyperlocal-growth-stalls-on-supply-coverage) <sub>31 Oct 2026</sub>
+- [A model lineup is a pricing portfolio](https://saumya.dabi.live/blog/a-model-lineup-is-a-pricing-portfolio) <sub>27 Oct 2026</sub>
+- [Human overrides should expire](https://saumya.dabi.live/blog/a-human-override-needs-a-timeout) <sub>24 Oct 2026</sub>
+- [Give agents permissions in steps, not all at once](https://saumya.dabi.live/blog/an-agent-needs-a-permission-gradient) <sub>20 Oct 2026</sub>
 
-[All posts →](https://saumya-dabi-portfolio.vercel.app/blog)
+[All posts →](https://saumya.dabi.live/blog)
 
 #### Recently active
 
