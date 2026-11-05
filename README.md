@@ -31,8 +31,8 @@ discovery, the spec and the evals, then the build with AI coding agents.
 
 #### Recently active
 
+- [creditlens](https://github.com/saumya-dabi/creditlens) <sub>updated 2026-11-04</sub>
 - [hermes-tui-minimal](https://github.com/saumya-dabi/hermes-tui-minimal) <sub>updated 2026-10-30</sub>
-- [creditlens](https://github.com/saumya-dabi/creditlens) <sub>updated 2026-10-27</sub>
 - [synapse-case-study](https://github.com/saumya-dabi/synapse-case-study) <sub>updated 2026-10-01</sub>
 - [vault-rag](https://github.com/saumya-dabi/vault-rag) <sub>updated 2026-07-05</sub>
 
